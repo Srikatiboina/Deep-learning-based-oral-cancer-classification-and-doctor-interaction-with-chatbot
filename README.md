@@ -1,0 +1,2 @@
+# Deep-learning-based-oral-cancer-classification-and-doctor-interaction-with-chatbot
+Implemention of a deep learning model to classify oral cancer using medical images. This project integrates a chatbot to facilitate interaction between doctors and patients, providing diagnostic insights and support. The combination of advanced image classification and conversational AI aims to enhance early detection and patient care
